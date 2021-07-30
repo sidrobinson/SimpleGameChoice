@@ -1,1 +1,1 @@
-# SimpleGameChoice
+# SimpleConsoleChoice
